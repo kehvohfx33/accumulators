@@ -23,6 +23,8 @@ cp .env.example .env.production
 
 Edit `.env.production`:
 
+
+
 ```env
 NEXT_PUBLIC_DERIV_APP_ID=your_app_id_here
 # NEXT_PUBLIC_DERIV_REDIRECT_URI=https://your-app.example.com/path/  # optional
