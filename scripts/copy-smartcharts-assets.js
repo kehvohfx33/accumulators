@@ -29,6 +29,8 @@ if (!fs.existsSync(SOURCE)) {
   process.exit(0);
 }
 
+
+
 // These are the Flutter standalone-app bootstrap files. They are NOT used by
 // the SmartCharts chart widget (which bundles its own Flutter loader inline).
 // Serving them exposes a path that can register a service worker that caches
